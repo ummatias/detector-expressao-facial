@@ -2,7 +2,7 @@
 
 ![](./2.gif)
 
-O Projeto escrito em Python utiliza a biblioteca penCV para captação e manipulçao de imagem e o tensorflow para criação de uma rede neural convolucional que classifica as expressões de um rosto.
+O Projeto escrito em Python3 utiliza a biblioteca OpenCV para captação e manipulçao de imagem e o tensorflow para criação de uma rede neural convolucional que classifica as expressões de um rosto.
 
 Expressõs Mapeadas: (Raiva, Nojo, Medo, Felicidade, Tristeza, Surpresa e Neutra)
 
