@@ -4,7 +4,6 @@ from tensorflow import keras
 from models.Fac_Model import Fac_Model
 from data_preprocess import load_data, webcam_img_process
 import numpy as np
-import matplotlib.pyplot as plt
 
 model = keras.models.load_model('./Fac_Model')
 cam = cv.VideoCapture(0)
